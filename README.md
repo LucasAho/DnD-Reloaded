@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# DnD-Reloaded
+This repository houses my second attempt at an app useful for DnD. Using a MERN stack to create this app and taking many lessons from my first attempt, I hope to improve accessibility and usefullness for users using my code. 
+>>>>>>> 6b73a4f9935ca6270d49e14637743918ff2c1431
