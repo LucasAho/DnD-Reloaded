@@ -4,7 +4,6 @@ import API from "../utils/API";
 
 class Login extends Component {
     submitForm = (data) => {
-        console.log(data);
         API.newUser({
             name: data.name,
             email: data.email,

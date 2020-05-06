@@ -18,7 +18,7 @@ const accountSchema = new Schema({
         minlength: 6,
         maxlength: 24
     },
-    role: {
+    acctType: {
         type: String,
         required: true
     }
